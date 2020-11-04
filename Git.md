@@ -139,6 +139,10 @@ git pull
 
 - combines git fetch and git merge into one command
 
+git push [alias] [branch]
+
+- transmit local branch commits to the remote repository branch
+
 git reset -- file.txt
 
 - returns files that have been staged to regular modified status.
@@ -187,7 +191,7 @@ git show {commit token for blob}
 
 git status
 
-- 
+-
 
 ls -l
 
