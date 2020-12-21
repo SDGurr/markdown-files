@@ -6,7 +6,7 @@
    $ touch .gitignore
 
 - Edit the new file using the nano command
-  $ nano .gititnore
+  $ nano .gitignore
 
 - Enter these commands into the .gitignore file.
   \*.log {\# no log files}
