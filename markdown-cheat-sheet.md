@@ -60,10 +60,25 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 
 ### Table
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Syntax | Description | Stuff |
+| :---- | :----: | ----:|
+| Header | Title | Stuff |
+| Paragraph | Text | Stuffy Stuff Stuff |
+
+| Syntax | Description | Stuff |
+| ---- | ---- | ---- |
+| Header | Title | Stuff |
+| Paragraph | Text | Stuffy Stuff Stuff |
+
+#### Formatting Text in Tables
+
+You can format the text within tables. For example, you can add **links**, **code** (words or phrases in backticks (`) only, **not** code blocks), and **emphasis**.
+
+You **cannot** add headings, blockquotes, lists, horizontal rules, images, or HTML tags.
+
+#### Escaping Pipe Characters in Tables
+
+You can display a pipe (|) character in a table by using its HTML character code (\&#124;).
 
 ### Fenced Code Block
 
@@ -83,7 +98,7 @@ Here's a sentence with a footnote. [^1]
 
 ### Heading ID
 
-### My Great Heading {#custom-id}
+#### My Great Heading {#custom-id}
 
 ### Definition List
 
