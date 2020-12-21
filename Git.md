@@ -5,7 +5,7 @@
 - Create the .gitignore file by using the touch command
    $ touch .gitignore
 
-- Edit the new file using the nano command
+- Edit the new file using the `nano` command
   $ nano .gitignore
 
 - Enter these commands into the .gitignore file.
