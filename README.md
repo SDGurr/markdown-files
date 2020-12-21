@@ -1,6 +1,8 @@
 # markdown-files
 Holding area for my Markdown files
 
+- Updated the .gitignore section to include code tags.
+
 - Updated .gitignore to include *.PDFs
 
 - Added many updates and adds, most for API1.md and API2.md 
