@@ -1,4 +1,4 @@
-# Commands used in StackSkills Git Introductory Course
+# Commands used in StackSkills' Git Introductory Course
 
 .gitignore {this is a file, denoted by the "." at the beginning}
 

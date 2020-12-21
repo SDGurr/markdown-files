@@ -1,6 +1,12 @@
 # markdown-files
 Holding area for my Markdown files
 
-Added git and markdown cheatsheet MD files along with supporting images.
+- Updated .gitignore to include *.PDFs
 
-Added "git push" to Git.md
+- Added many updates and adds, most for API1.md and API2.md 
+
+- Added git and markdown cheatsheet MD files along with supporting images.
+  - Shit. Misspelled "cheat" on my first commit comment.
+
+- Added "git push" to Git.md.
+
