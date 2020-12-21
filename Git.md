@@ -3,7 +3,7 @@
 .gitignore {this is a file, denoted by the "." at the beginning}
 
 - Create the .gitignore file by using the touch command
-   $ touch .gititnore
+   $ touch .gitignore
 
 - Edit the new file using the nano command
   $ nano .gititnore
